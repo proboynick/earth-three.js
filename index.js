@@ -36653,13 +36653,13 @@ parcelRequire = (function (e, r, t, n) {
     ],
     dILV: [
       function (require, module, exports) {
-        module.exports = "/assets//space.jpg";
+        module.exports = "./assets/space.jpg";
       },
       {},
     ],
     BYKo: [
       function (require, module, exports) {
-        module.exports = "/assets/earth.jpg";
+        module.exports = "./assets/earth.jpg";
       },
       {},
     ],
